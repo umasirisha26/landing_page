@@ -1,0 +1,50 @@
+.logo{
+    width: 180px;
+    height: 80px;}
+   
+#nav-1{
+    font-size: 20px;
+    font-style:italic;
+    font-weight: bold;
+    color: rgb(17, 31, 83);}
+#nav-2{
+    font-size: 20px;
+    font-style:italic;
+    font-weight: bold;
+    color: rgb(17, 31, 83);}
+#nav-3{
+    font-size: 20px;
+    font-style:italic;
+    font-weight: bold;
+    color: rgb(17, 31, 83);}
+#nav-4{
+    font-size: 20px;
+    font-style:italic;
+    font-weight: bold;
+    color: rgb(17, 31, 83);}
+.bg-container{
+    background-image: url("https://beyondmoofoods.com/wp-content/uploads/2021/08/rsw_1280.jpg");
+    background-size: cover;
+    height: 635px;}
+.banner-heading{
+    font-size: 60px;
+    font-family: Georgia;
+    font-weight: bold;
+    color: rgb(219, 219, 25);}
+.btn-custom{
+    font-family: Rockwell;
+    width: 150px;
+    height: 60px;
+    font-weight: bold;
+    border-radius: 8px;
+    background-color: rgba(223, 201, 30, 0.79);
+    color: whitesmoke;
+    font-size: 20px;}
+.btn-order{width: 150px;
+    height: 60px;
+    font-weight: bold;
+    font-family: Rockwell;
+    border-radius: 8px;
+    background-color:  rgba(223, 201, 30, 0.79);
+    color: whitesmoke;
+    font-size: 20px;}
